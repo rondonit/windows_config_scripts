@@ -1,5 +1,5 @@
 # Windows Configuration Scripts
-My collectionj of Powershell and Batch scripts to automate and optimize Windows settings.
+My collection of Powershell and Batch scripts to automate and optimize Windows settings.
 
 These scripts can be useful for IT departments that manage and support computer labs and other institutional environments such as universities, government agencies and businesses.
 
