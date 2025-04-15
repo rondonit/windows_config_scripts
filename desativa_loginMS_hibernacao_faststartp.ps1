@@ -45,5 +45,4 @@ if (!(Test-Path $FastStartupPath)) {
 }
 New-ItemProperty -Path $FastStartupPath -Name "HiberbootEnabled" -Value 0 -PropertyType DWord -Force
 
-# ---
 Write-Host "OK!" -ForegroundColor Green
